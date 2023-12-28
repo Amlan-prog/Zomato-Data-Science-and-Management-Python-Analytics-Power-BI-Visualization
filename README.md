@@ -22,3 +22,9 @@ The resultant dashboard provides a comprehensive snapshot of the dataset, offeri
 
 **Conclusion:**
 The dataset's intricate analysis reveals actionable insights for restaurant stakeholders, urging improvements in quality, online service provision, and strategic decision-making. This statistically-driven approach paves the way for enhanced restaurant performance, aligning with global trends and patron preferences.
+
+**Visual Insights**:
+Refer the dashboard for more insights, glimpses of which are below:
+![image](https://github.com/Amlan-prog/Zomato-Data-Science-and-Management-Python-Analytics-Power-BI-Visualization/assets/106246237/5c6fa730-b719-4956-809e-cda519327d72)
+
+
