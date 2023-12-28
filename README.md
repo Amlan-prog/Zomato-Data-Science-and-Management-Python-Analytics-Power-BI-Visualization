@@ -1,4 +1,4 @@
-# Zomato-Data-Science-and-Management-Python-Analytics-Power-BI-Visualization
+# Zomato Data Science and Management: Python Analytics and Power-BI-Visualization
 
 **Project Objective:**
 This project undertakes an in-depth exploration of a comprehensive dataset containing global restaurant chain information. The primary objective is to conduct advanced descriptive and statistical analyses aligned with predefined goals.
